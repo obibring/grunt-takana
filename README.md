@@ -1,3 +1,7 @@
+# Why this fork?
+The current grunt-takana plugin has a very old version of Takana as a dependency. Attempting to
+install this old version produces errors. 
+
 # grunt-takana
 
 > Live edit SCSS and CSS stylesheets
