@@ -37,7 +37,7 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "takana": "git@github.com:obibring/takana.git#latest"
+    "takana": "git@github.com:obibring/takana.git#v0.4.4"
   },
   "main": "Gruntfile.js",
   "directories": {
